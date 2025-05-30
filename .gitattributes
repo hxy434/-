@@ -1,2 +1,4 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.h5ad filter=lfs diff=lfs merge=lfs -text
+项目 filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
